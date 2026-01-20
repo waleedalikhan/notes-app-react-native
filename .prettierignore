@@ -1,0 +1,9 @@
+node_modules
+.expo
+.expo-shared
+dist
+build
+*.log
+coverage
+.vscode
+.idea
